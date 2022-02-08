@@ -1,0 +1,1 @@
+/usr/bin/c++    -no-pie -rdynamic CMakeFiles/AbstractFactoryDesignPattern.dir/src/Factory.cpp.o CMakeFiles/AbstractFactoryDesignPattern.dir/src/Product.cpp.o CMakeFiles/AbstractFactoryDesignPattern.dir/src/main.cpp.o  -o AbstractFactoryDesignPattern -lpthread 

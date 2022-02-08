@@ -4,7 +4,7 @@ cmake_minimum_required(VERSION 3.0)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_EXE_LINKER_FLAGS "-no-pie")
 
-project(decoratorDesignPattern)
+project(AbstractFactoryDesignPattern)
 
 
 #Setup
