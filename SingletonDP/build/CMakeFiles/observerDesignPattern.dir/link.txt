@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/observerDesignPattern.dir/src/IObserver.cpp.o CMakeFiles/observerDesignPattern.dir/src/PhoneDisplay.cpp.o CMakeFiles/observerDesignPattern.dir/src/WeatherStation.cpp.o CMakeFiles/observerDesignPattern.dir/src/WindowDisplay.cpp.o CMakeFiles/observerDesignPattern.dir/src/main.cpp.o  -o observerDesignPattern -lpthread 

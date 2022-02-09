@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Command.hpp
+Receiver.hpp
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Receiver.hpp
+
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Invoker.hpp
+Command.hpp
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Command.hpp
+
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Receiver.hpp
+iostream
+-
+
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/main.cpp
+Receiver.hpp
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Receiver.hpp
+Command.hpp
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Command.hpp
+Invoker.hpp
+/home/dangvhb/dangvhbwork/DesignPattern/CommandDP/src/Invoker.hpp
+
